@@ -73,7 +73,7 @@ Your key is stored in the macOS Keychain. Your chats, memory and settings stay o
 These arrive with the Apple-signed release:
 
 - **Pocket Pass:** a private phone page for your assistant, end-to-end encrypted, no Telegram needed. Plans and prices are at [arabella.vrnik.com/pricing](https://arabella.vrnik.com/pricing). Until then, Pocket is free during early access.
-- **Arabella's look:** the original dramatic demon, as a character in your app.
+- **Arabella, the unlockable character:** the original dramatic demon, as a fourth character next to Maya, Kip and Barnaby.
 
 Want **a character of your own**, built for you? Menu bar › **Order a custom Arabella…**, or write to [arabella@vrnik.com](mailto:arabella@vrnik.com).
 
